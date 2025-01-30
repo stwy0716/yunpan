@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>云盘</title><link>https://stwy0716.github.io/yunpan</link><description>本网页集合了我上传的所有云盘软件，但我并非开发者，上传的所有应用都是网页套壳。下载软件时优先下载32位版本</description><copyright>云盘</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://stwy0716.github.io/yunpan</link></image><lastBuildDate>Thu, 30 Jan 2025 01:38:36 +0000</lastBuildDate><managingEditor>云盘</managingEditor><ttl>60</ttl><webMaster>云盘</webMaster><item><title>云盘32位v1.3更新</title><link>https://stwy0716.github.io/yunpan/post/yun-pan-32-wei-v1.3-geng-xin.html</link><description>已更新
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>云盘</title><link>https://stwy0716.github.io/yunpan</link><description>本网页集合了我上传的所有云盘软件，但我并非开发者，上传的所有应用都是网页套壳。下载软件时优先下载32位版本</description><copyright>云盘</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://stwy0716.github.io/yunpan</link></image><lastBuildDate>Thu, 30 Jan 2025 01:44:50 +0000</lastBuildDate><managingEditor>云盘</managingEditor><ttl>60</ttl><webMaster>云盘</webMaster><item><title>星星外链云盘v1.0</title><link>https://stwy0716.github.io/yunpan/post/xing-xing-wai-lian-yun-pan-v1.0.html</link><description>32位
+
+[下载链接1](http://lovely.twotime.top/down.php/7a639c826eaa0d06e161a576c149f4dd.apk)
+
+[下我链接2](https://www.123684.com/s/c8T9jv-hexb)。</description><guid isPermaLink="true">https://stwy0716.github.io/yunpan/post/xing-xing-wai-lian-yun-pan-v1.0.html</guid><pubDate>Thu, 30 Jan 2025 01:44:19 +0000</pubDate></item><item><title>云盘32位v1.3更新</title><link>https://stwy0716.github.io/yunpan/post/yun-pan-32-wei-v1.3-geng-xin.html</link><description>已更新
 更新内容：
 1.修复了无法上传文件的问题
 2.修复了部分bug
