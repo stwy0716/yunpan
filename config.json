@@ -1,6 +1,7 @@
 {
     "title":"云盘",
-    "subTitle":"本网页算是云盘软件的官网，由于我先后上传了两个不同的软件(他们名字和功能都一样)，所以都在这里更新",
+    "subTitle":"本网页集合了我上传的所有云盘软件，但我并非开发者，上传的所有应用仅仅是一个网页套壳。
+下载软件时优先下载32位版本",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last"
 }
